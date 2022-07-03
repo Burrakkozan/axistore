@@ -14,7 +14,7 @@ const  Navbar = () => {
       <p className="logo">
         <Link href="/" >
         <Image
-      src="/../public/mstile-150x150.png"
+      src="/../public/axistore.svg"
       alt="Picture of the author"
       width={70}
       height={70}
