@@ -1,0 +1,6 @@
+Sitemap: http://axistore.me/api/my-sitemap
+
+User-agent: *
+Allow: /*
+
+Disallow: /api/*
